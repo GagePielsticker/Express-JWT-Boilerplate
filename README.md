@@ -47,8 +47,7 @@ Remember to sanitize user inputs / api outputs through some xss filter!
 
 ## TODO
 - [] Add refresh tokens for expired tokens and change token expiry to like 5 mins
-- [] Move configuration to a .env instead of .json
-- [] Validate env config values on boot
+- [] Validate json config values on boot
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
