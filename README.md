@@ -1,6 +1,7 @@
 # Express-JWT-Boilerplate
  [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GagePielsticker/Express-JWT-Boilerplate/blob/master/LICENSE.md) 
- ![GitHub last commit](https://img.shields.io/github/last-commit/gagepielsticker/Express-JWT-Boilerplate) 
+ ![GitHub last commit](https://img.shields.io/github/last-commit/gagepielsticker/Express-JWT-Boilerplate)
+ [![Build Status](https://travis-ci.com/GagePielsticker/Express-JWT-Boilerplate.svg?branch=main)](https://travis-ci.com/GagePielsticker/Express-JWT-Boilerplate)
 
 ## Foreword
 
