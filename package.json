@@ -1,5 +1,5 @@
 {
-  "name": "express-jwt-api",
+  "name": "express-jwt-boilerplate",
   "version": "1.0.0",
   "description": "A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, and express.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JamesPielstickerPortfolio/Express-JWT-API.git"
+    "url": "git+https://github.com/JamesPielstickerPortfolio/Express-JWT-Boilerplate.git"
   },
   "keywords": [
     "express",
@@ -19,9 +19,9 @@
   "author": "James Pielsticker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JamesPielstickerPortfolio/Express-JWT-API/issues"
+    "url": "https://github.com/JamesPielstickerPortfolio/Express-JWT-Boilerplate/issues"
   },
-  "homepage": "https://github.com/JamesPielstickerPortfolio/Express-JWT-API#readme",
+  "homepage": "https://github.com/JamesPielstickerPortfolio/Express-JWT-Boilerplate#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
