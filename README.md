@@ -3,7 +3,7 @@
 
 # Express-JWT-API
 
-A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, and express.
+A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, Docker, HaProxy, and express.
 
 # Foreword
 
