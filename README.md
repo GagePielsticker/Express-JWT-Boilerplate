@@ -1,9 +1,9 @@
- [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/GagePielsticker/Express-JWT-Boilerplate/blob/master/LICENSE.md) 
- ![GitHub last commit](https://img.shields.io/github/last-commit/JamesPielstickerPortfolio/Express-JWT-ChatApp)
+ [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/JamesPielstickerPortfolio/Express-JWT-API/blob/master/LICENSE.md) 
+ ![GitHub last commit](https://img.shields.io/github/last-commit/JamesPielstickerPortfolio/Express-JWT-API)
 
 # Express-JWT-API
 
-A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, Docker, HaProxy, and express.
+A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, Docker deployment, HaProxy loadbalancing, and more.
 
 # Foreword
 
