@@ -20,7 +20,9 @@ A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, Docke
 # REST API
 Config located in `/Rest-Api/src/settings/settings.json`. (Storing sensative info in a .env is preferable, for this example i keep everything in a json file)
 
-Setting `ignored_routes` are all the routes which dont utilize JWT authentication (public).
+Setting `ignored_routes` are all the routes which dont require authentication (public).
+
+To authenticate client must pass provided Bearer token in the header and decoded payload will be on the request object. [See more here](https://www.npmjs.com/package/express-jwt)
   
 ## Endpoints
 
