@@ -1,0 +1,33 @@
+{
+    "api" : {
+        "port" : 3000
+      },
+    
+      "mongodb" : {
+        "host" : "127.0.0.1",
+        "port" : "27017",
+        "username" : "",
+        "password" : "",
+        "database" : "express-jwt-chatapp",
+        "reconnect_attempts": 10,
+        "reconnect_interval": 1000
+      },
+
+      "frontend": {
+        "host": "http://localhost"
+      },
+    
+      "jwt" : {
+        "secret": "xxxxxxxxxxxx",
+        "algorithm": "HS256",
+        "expiresIn": "1d",
+        "ignored_routes" : [
+          "/auth",
+          "/auth/register",
+          "/auth/login",
+          "/",
+          "/healthcheck"]
+      },
+
+      "password_hash_rounds": 10
+}
