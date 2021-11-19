@@ -30,7 +30,7 @@ app.use(jwtValidator({
 )
 
 /* catchall authentication error handling */
-app.use(function (err, req, res, next) {
+app.use((err, req, res, next) => {
   if (err.name === 'UnauthorizedError') {
     return res.status(401).json({ type: 'Authorization', errors: ['Invalid authorization token.'] })
   }
