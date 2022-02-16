@@ -1,5 +1,4 @@
- [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/JamesPielstickerPortfolio/Express-JWT-Boilerplate/blob/master/LICENSE.md) 
- ![GitHub last commit](https://img.shields.io/github/last-commit/JamesPielstickerPortfolio/Express-JWT-Boilerplate)
+ [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/JamesPielstickerPortfolio/Express-JWT-Boilerplate/blob/master/LICENSE.md)
 
 # Express-JWT-API
 
