@@ -6,7 +6,7 @@ A stateless and scalable RESTful Api utilizing JWT authorization, MongoDB, Docke
 
 # Foreword
 
-> I created this initially as a learning platform to pick up JWT and stateless authentication however because of how useful it eventually became i decided to post it on a repo to share as a scalable JWT example/boilerplate in express.
+> I created this initially as a learning platform to pick up JWT and stateless authentication however because of how useful it eventually became i decided to post it on a repo to share as a scalable JWT example/boilerplate in express. Do note this should not be used in production as it does not support TLS and a few other things. This is soley an example of JWT in action on an express API. 
 
 # Features
 
